@@ -6,7 +6,6 @@ var x = "Hello, World!"
 
 func main() {
 
-	fmt.Println(x)
+	fmt.Println(x) //imprime o valor da variável x
 
 }
-
