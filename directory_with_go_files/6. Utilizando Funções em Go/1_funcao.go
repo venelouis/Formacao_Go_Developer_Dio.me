@@ -1,6 +1,7 @@
 // função também é chamada de procedimento ou sub-rotina
 // função é um bloco de código que executa uma tarefa específica
 // ele pega um dado de entrada e dá um dado de saída
+
 package main
 
 import (
