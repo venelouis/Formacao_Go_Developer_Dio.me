@@ -1,6 +1,6 @@
 package main
 
-import "testing"
+import "testing" // Importando o pacote de testes, mas para ele rodar é necessário go.mod que é criado com: go mod init + soma_test.go
 
 func TestSoma(t *testing.T) {
 	total := soma(1, 2, 3)
