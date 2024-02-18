@@ -8,9 +8,9 @@ func main() {
 }
 
 func soma(numeros ...int) int {
-	soma := 0
+	total := 0
 	for _, numero := range numeros {
-		soma += numero
+		total += numero
 	}
-	return soma
+	return total
 }
