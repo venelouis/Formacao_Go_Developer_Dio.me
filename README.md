@@ -1,5 +1,5 @@
 # Formação Go Developer da dio.me
-<table>
+<table align='center'>
     <tr>
         <td><img height="40" src='./some_images/diologo.svg'></td>
         <td><img height="100" src='./some_images/gologo.webp'></td>
