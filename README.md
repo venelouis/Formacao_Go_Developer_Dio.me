@@ -1,9 +1,9 @@
 # Formação Go Developer da dio.me
 <table>
     <tr>
-        <td><img src='./some_images/diologo.svg'></td>
-        <td><img src='./some_images/godev.webp'></td>
-        <td><img src='./some_images/gologo.webp'></td>
+        <td><img height="100" src='./some_images/diologo.svg'></td>
+        <td><img height="100" src='./some_images/godev.webp'></td>
+        <td><img height="100" src='./some_images/gologo.webp'></td>
     </tr>
 </table>
 
